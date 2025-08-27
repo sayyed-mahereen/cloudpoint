@@ -19,4 +19,4 @@ It allows users to search for any city and view live weather details such as tem
 ## 📦 Installation
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/cloudpoint-weather-app.git
+   git clone https://github.com/sayyed-Mahereen/cloudpoint-weather-app.git
